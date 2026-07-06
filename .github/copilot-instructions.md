@@ -1,10 +1,12 @@
 # Copilot Instructions
 
-## 重要：言語設定
+## Language
 
-**必ず日本語でレビューを行ってください。すべてのコメント、提案、説明は日本語で記述してください。**
+This is an English-based repository.
 
-## ファイル配置ルール
+- Write code comments, documentation, UI text, and other repository content in English unless a task explicitly requires another language.
 
-- **Pomodoro タイマー**に関する作業では、ファイルを `1.pomodoro/` 配下に保存してください。
-- **Copilot Web Relay** に関する作業では、ファイルを `2.copilotWebRelay/` 配下に保存してください。
+## File Placement Rules
+
+- For **Pomodoro Timer** work, save files under `1.pomodoro/`.
+- For **Copilot Web Relay** work, save files under `2.copilotWebRelay/`.
